@@ -1,13 +1,3 @@
-/**
- * file: regularlangcomplement.cpp
- * author: chinagorom mbaraonye
- * course: CSI 4336
- * assignment: assignment 3
- * due date: september 08, 2020
- * version: 1.0
- *
- * This file contains the simulation of an nfa with epsilon closure
- */
 #include <iostream>
 #include <set>
 #include <vector>
